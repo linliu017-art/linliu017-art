@@ -1,4 +1,4 @@
-<picture><img src="./assets/purple-final/header-engineer-typing-compact-line-fixed.svg" alt="AI Product Engineer · AI 产品经理，动手做，也持续写。"></picture>
+<picture><img src="./assets/purple-final/header-title-once-intro-loop.svg" alt="AI Product Engineer · AI 产品经理，动手做，也持续写。"></picture>
 
 <picture><img src="./assets/pixel/projects-text-heading.svg" alt="01 Projects / 作品。用 Vibe Coding 把想法做成可以体验的作品。"></picture>
 
