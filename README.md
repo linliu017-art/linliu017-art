@@ -1,6 +1,4 @@
-![AI LAB — 像素横幅](./assets/ai-lab-simple.png)
-
-![AI 产品经理，动手做，也持续写。用 Vibe Coding 做作品，为新技术写 Demo，也在公众号记录观察与思考。](./assets/pixel/intro.svg)
+![AI LAB · AI 产品经理，动手做，也持续写。Vibe Coding、新技术 Demo 与公众号写作。](./assets/pixel/compact-header.svg)
 
 <a href="https://linliu017-art.github.io/website/"><img src="./assets/pixel/visit.svg" width="48%" alt="访问个人网站"></a> <a href="https://github.com/linliu017-art?tab=repositories"><img src="./assets/pixel/repos.svg" width="48%" alt="查看所有仓库"></a>
 
