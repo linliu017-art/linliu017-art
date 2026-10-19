@@ -1,17 +1,14 @@
-<picture><img src="./assets/pixel/compact-header-minimal.svg" alt="AI LAB · AI 产品经理，动手做，也持续写。"></picture>
+<picture><img src="./assets/purple-final/header.svg" alt="AI LAB · AI 产品经理，动手做，也持续写。"></picture>
 
-<picture><img src="./assets/pixel/projects-text-heading.svg" alt="01 Projects / 作品。用 Vibe Coding 把想法做成可以体验的作品。"></picture>
+<picture><img src="./assets/purple-final/projects.svg" alt="Projects / 作品"></picture>
 
-<p><a href="https://linliu017-art.github.io/showstart-landing-page/"><strong>ShowStart · 秀动落地页概念 ↗</strong></a><br><sub>非官方产品概念 · 滚动叙事 · 演出轮播</sub></p>
+[![ShowStart · 秀动落地页概念。围绕演出发现、购票与电子票夹体验，探索音乐现场的网页表达。](./assets/purple-final/showstart.svg)](https://linliu017-art.github.io/showstart-landing-page/)
 
----
+[![Personal Website · 个人网站。个人介绍与作品展示的起点，内容持续完善中。](./assets/purple-final/website.svg)](https://linliu017-art.github.io/website/)
 
-<p><a href="https://linliu017-art.github.io/website/"><strong>Personal Website · 个人网站 ↗</strong></a><br><sub>个人介绍与作品展示 · HTML / CSS</sub></p>
+<picture><img src="./assets/purple-final/alinix.svg" alt="Alinix / 公众号"></picture>
 
-<picture><img src="./assets/pixel/alinix-text-heading.svg" alt="02 Alinix / 公众号。关于 AI 产品、新技术与动手实践的观察。"></picture>
+[![DeepSeek 能读百万上下文了，我们还需要上下文工程吗？。从实际任务出发，讨论大窗口、RAG 和记忆分别能解决什么问题。](./assets/purple-final/context.svg)](https://mp.weixin.qq.com/s/zNrkW1CvZlaiJXMB8me5MQ)
 
-<p><a href="https://mp.weixin.qq.com/s/zNrkW1CvZlaiJXMB8me5MQ"><strong>DeepSeek 能读百万上下文了，我们还需要上下文工程吗？ ↗</strong></a><br><sub>长上下文 · RAG · 记忆与信息组织</sub></p>
+[![端侧 AI 新趋势：从生成走向检索和判断。从设备上的具体任务出发，思考何时需要生成，何时更适合检索与判断。](./assets/purple-final/edge.svg)](https://mp.weixin.qq.com/s/oH2MlMnSexo_oOzLO6mMXA)
 
----
-
-<p><a href="https://mp.weixin.qq.com/s/oH2MlMnSexo_oOzLO6mMXA"><strong>端侧 AI 新趋势：从生成走向检索和判断 ↗</strong></a><br><sub>端侧 AI · 多模态检索 · 模型选型</sub></p>
