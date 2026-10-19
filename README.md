@@ -4,7 +4,7 @@
 
 ![01 Write / 公众号写作](./assets/pixel/writing-01.svg)
 
-![做完之后，把思考写下来。在公众号分享观察与实践，记录值得继续追问的问题。](./assets/pixel/writing-note.svg)
+![做完之后，把思考写下来。在公众号 Alinix 分享观察与实践，记录值得继续追问的问题。](./assets/pixel/writing-note.svg)
 
 ![02 Say hello / 保持交流](./assets/pixel/hello-02.svg)
 
