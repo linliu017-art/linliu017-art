@@ -4,17 +4,28 @@
 
 ![01 Build / 动手作品](./assets/pixel/work.svg)
 
-[![ShowStart · 秀动落地页概念。滚动叙事、演出轮播与响应式体验。查看项目。](./assets/pixel/showstart.svg)](https://github.com/linliu017-art/showstart-landing-page)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-围绕演出发现、购票和电子票夹体验制作的非官方产品落地页概念，用滚动叙事和轮播探索音乐现场的网页表达。
+<strong><a href="https://github.com/linliu017-art/showstart-landing-page">showstart-landing-page</a></strong> <sub>Public</sub>
 
-`CONCEPT PROJECT` `GSAP` `SWIPER` `RESPONSIVE`
+<p>秀动 App 非官方产品落地页概念：GSAP 滚动叙事与 Swiper Coverflow 演出轮播。</p>
 
-[![Personal Website · 个人网站。个人介绍与作品展示的起点。访问网站。](./assets/pixel/website.svg)](https://linliu017-art.github.io/website/)
+<sub>HTML</sub>
 
-用原生 HTML 与 CSS 搭建的个人空间，作为个人介绍与作品展示的起点，内容持续完善中。[查看仓库 ↗](https://github.com/linliu017-art/website)
+</td>
+<td width="50%" valign="top">
 
-`PERSONAL SPACE` `HTML` `CSS`
+<strong><a href="https://github.com/linliu017-art/website">website</a></strong> <sub>Public</sub>
+
+<p>用原生 HTML 与 CSS 搭建的个人网站，用来介绍自己、展示作品。</p>
+
+<sub>HTML</sub>
+
+</td>
+</tr>
+</table>
 
 ![02 Experiment / 技术实验](./assets/pixel/demos.svg)
 
